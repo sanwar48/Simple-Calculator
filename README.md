@@ -5,6 +5,7 @@ This project is about a basic calculator which offer a user to operate four oper
 
 Used Technology : laravel 8 (For Backend)
                   React.js (For Frontend)
+## url https://sanwar-emocal.herokuapp.com/
 
 ##
 ## Backend Api Description
@@ -45,5 +46,17 @@ After that final calculate function is called and result is returned as Json dat
 
 
 ## Frontend Description
+
+## Three input fields (operand1=>real number, operand2=>real number, operator=>{Addition, Subtraction, Division, Multiplication} )
+
+## Two Components 
+	1.one is header that hold the band name
+	2. another is the calculation form that send the two number and operator
+	
+
+
+## Input request form Json object
+
+
 
 
